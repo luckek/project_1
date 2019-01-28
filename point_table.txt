@@ -1,0 +1,7 @@
+| u  | v  | Easting | Northing | Elevation | Description    |
+|----|----|---------|----------|-----------|----------------|
+|476|327|272558.68|5193938.07|1015|Main hall spire|
+|159|692|272572.34|5193981.03|982|Large spruce|
+|30|694|272540.60|5193958.91|982|Other Large tree
+|270|458|273183.35|5194045.24|1137|Large rock outcrop on Sentinel|
+|660|511|272556.74|5193922.02|998|Southernmost window apex on main hall|
