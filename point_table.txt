@@ -1,7 +1,7 @@
 | u  | v  | Easting | Northing | Elevation | Description    |
 |----|----|---------|----------|-----------|----------------|
-|476|327|272558.68|5193938.07|1015|Main hall spire|
-|30|689|272572.34|5193981.03|982|Large spruce|
-|156|688|272540.60|5193958.91|982|Other Large tree|
-|270|458|273183.35|5194045.24|1137|Large rock outcrop on Sentinel|
-|660|511|272556.74|5193922.02|998|Southernmost window apex on main hall|
+|1498|978|272558.68|5193938.07|1015|Main hall spire|
+|2081|1589|273183.35|5194045.24|1137|Large rock outcrop on Sentinel|
+|862|1409|272556.74|5193922.02|998|Southernmost window apex on main hall|
+|2951|2212|272537|5193907|982|South trash can|
+|906|1592|272558|5193954|997|Northmost window apex on main hall|
